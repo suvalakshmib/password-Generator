@@ -1,0 +1,18 @@
+@font-face {
+  font-family: pop-med;
+  src: local("pop-med"),
+  url("./fonts/Poppins-Regular.ttf") format("truetye");
+}
+body {
+  margin: 0;
+  font-family: pop;
+  
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+i{
+  color: rgb(108, 164, 188);
+}
